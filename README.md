@@ -1,4 +1,4 @@
-![alt text](image-2.png)
+<img width="1281" height="333" alt="Captura de pantalla 2026-05-20 123623" src="https://github.com/user-attachments/assets/6796b556-70b9-4dd1-ac7e-040c96148675" />
 # GROSS PRODUCTION INDEX PER CAPITAL IN SOUTH AMERICA
 
 This project analyzes the agricultural production index per capita in South America using data from the FAOSTAT database between 1961 and 2024. The dashboard was developed in Power BI to explore production trends, country comparisons, dominant agricultural categories in each country, and temporal evolution across the region.
@@ -86,7 +86,7 @@ Grays (#6C757D, #495057) serve as supporting tones for secondary information, en
 
 The information was show in sixs diferent tabs, to represent sixs different views of the information.
 
-![alt text](image-3.png)
+<img width="1901" height="749" alt="Captura de pantalla 2026-05-20 130841" src="https://github.com/user-attachments/assets/d54422b7-9adf-496d-a2e6-b91a2b05ff97" />
 
 #### 1. Global View
 
